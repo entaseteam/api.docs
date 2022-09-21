@@ -1,2 +1,2 @@
-# api.v2.docs
-API Docs
+# Entase API
+Go to our Wiki page.

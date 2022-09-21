@@ -1,7 +1,10 @@
 # Entase API
-Make custom integrations with Entase via the Rest API.
+![GitHub release (latest by date)](https://img.shields.io/badge/Version-2-blue)
+![GitHub release (latest by date)](https://img.shields.io/badge/Type-REST-red)
 
-## [Documentation](https://github.com/entaseteam/api.v2.docs/wiki)
+Make custom integrations with Entase via the REST API.
+
+## [Documentation](https://github.com/entaseteam/api.docs/wiki)
 ## [PHP SDK](https://github.com/entaseteam/sdk.php)
 ## [Wordpress Plugin](https://github.com/entaseteam/plugin.wp)
 

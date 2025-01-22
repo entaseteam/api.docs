@@ -8,5 +8,7 @@ Make custom integrations with Entase via the REST API.
 
 ## [Documentation](https://github.com/entaseteam/api.docs/wiki)
 ## [PHP SDK](https://github.com/entaseteam/sdk.php)
+## [Python SDK](https://github.com/entaseteam/sdk.python)
+## [Node.js SDK](https://github.com/entaseteam/sdk.node)
 ## [Wordpress Plugin](https://github.com/entaseteam/plugin.wp)
 
